@@ -87,7 +87,8 @@ This project builds an **AI-driven evaluation system** that:
 ---
 
 ##🚀 **How to Run**
-git clone https://github.com/your-username/AI-Recruitment-Automation-System.git
+
+1. git clone https://github.com/your-username/AI-Recruitment-Automation-System.git
 cd AI-Recruitment-Automation-System
 
 2. **Install dependencies**
@@ -111,19 +112,19 @@ http://127.0.0.1:8001/docs
 ---
 
 ## 🎯 **Use Case**
--Automated resume screening
--Recruitment process optimization
--HR tech / ATS integration
--AI-based candidate ranking systems
+- Automated resume screening
+- Recruitment process optimization
+- HR tech / ATS integration
+- AI-based candidate ranking systems
 
 ---
 
 ## 🔮 **Future Improvements**
--LLM-based explanation generation
--Integration with recruitment platforms (e.g., Manatal API)
--Workflow automation using tools like n8n
--Candidate ranking across multiple applications
--Bias reduction and fairness evaluation
+- LLM-based explanation generation
+- Integration with recruitment platforms (e.g., Manatal API)
+- Workflow automation using tools like n8n
+- Candidate ranking across multiple applications
+- Bias reduction and fairness evaluation
 
 ---
 
