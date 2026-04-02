@@ -79,14 +79,12 @@ This project builds an **AI-driven evaluation system** that:
 }
 
 ## 📊 Sample Output
-<img width="634" height="599" alt="image" src="https://github.com/user-attachments/assets/4d9a001a-fdb0-42f0-acfa-8ec45b434faa" />
 
-<img width="388" height="245" alt="image" src="https://github.com/user-attachments/assets/10915dc6-2bd8-47e8-b007-52342e5e6d84" />
 
 
 ---
 
-**##🚀 How to Run**
+##🚀 **How to Run**
 git clone https://github.com/your-username/AI-Recruitment-Automation-System.git
 cd AI-Recruitment-Automation-System
 
@@ -118,7 +116,7 @@ http://127.0.0.1:8001/docs
 
 ---
 
-🔮 **Future Improvements**
+## 🔮 **Future Improvements**
 -LLM-based explanation generation
 -Integration with recruitment platforms (e.g., Manatal API)
 -Workflow automation using tools like n8n
