@@ -77,8 +77,10 @@ This project builds an **AI-driven evaluation system** that:
   "missing_skills": ["Machine Learning", "NLP"],
   "reason": "Matched 2 skills, missing 2 required skills"
 }
-
+```
 ## 📊 Sample Output
+<img width="388" height="245" alt="Screenshot 2026-04-03 004046" src="https://github.com/user-attachments/assets/5429595f-1874-448e-af98-859018c6a9d4" />
+<img width="634" height="599" alt="Screenshot 2026-04-03 004014" src="https://github.com/user-attachments/assets/7307fdbb-8ada-4a4e-9ae9-2e9fad16d48b" />
 
 
 
@@ -105,7 +107,7 @@ http://127.0.0.1:8001/docs
   "resume": "Python, Machine Learning, NLP",
   "job_desc": "Looking for a candidate with Python, ML, and NLP experience"
 }
-
+```
 ---
 
 ## 🎯 **Use Case**
